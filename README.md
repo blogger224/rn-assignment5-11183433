@@ -73,10 +73,17 @@ Use the Settings screen to switch between light and dark themes.
 ## Screenshots
 
 Home screen light mode
+
 ![Screenshot1](/assets/Amoah.jpg)
+
 Settings screen light mode
+
 ![Screenshot2](/assets/eben.jpg)
+
 Settings screen Dark mode
+
 ![Screenshot3](/assets/kwame.jpg)
+
 Home screen Dark mode
+
 ![Screenshot4](/assets/blogger.jpg)
