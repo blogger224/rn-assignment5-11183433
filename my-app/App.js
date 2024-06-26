@@ -9,7 +9,7 @@ import SettingsScreen from './screens/SettingsScreen';
 import Ionicons from "react-native-vector-icons/Ionicons";
 import MyCards from './screens/MyCards';
 import Statistics from './screens/Statistics';
-import { ThemeProvider } from './context/ThemeContext';
+import { ThemeProvider } from '../Context/ThemeContext';
 
 export default function App() {
 

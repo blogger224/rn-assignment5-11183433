@@ -6,9 +6,9 @@ import Ionicons from "react-native-vector-icons/Ionicons";
 import FontAwesome6 from "react-native-vector-icons/FontAwesome6";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons"
 //import MasterCard from '../components/MasterCard';
-import TransactionItem from '../components/TransactionItem';
+import TransactionItem from '../../components/TransactionItem';
 import card from "../assets/Card.png";
-import { ThemeContext } from '../context/ThemeContext';
+import { ThemeContext } from '../../Context/ThemeContext';
 
 
 const HomeScreen = () => {
