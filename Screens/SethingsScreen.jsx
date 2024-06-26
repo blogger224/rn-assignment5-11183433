@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import { View, Text, StyleSheet, Switch } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
-import { ThemeContext } from '../../Context/ThemeContext';
+import { ThemeContext } from '../Context/ThemeContext';
 
 const SettingsScreen = () => {
 

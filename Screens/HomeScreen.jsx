@@ -8,7 +8,7 @@ import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityI
 //import MasterCard from '../components/MasterCard';
 import TransactionItem from '../../components/TransactionItem';
 import card from "../assets/Card.png";
-import { ThemeContext } from '../../Context/ThemeContext';
+import { ThemeContext } from '../Context/ThemeContext';
 
 
 const HomeScreen = () => {

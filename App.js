@@ -4,12 +4,12 @@ import { NavigationContainer} from '@react-navigation/native';
 //import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
-import HomeScreen from './screens/HomeScreen';
-import SettingsScreen from './screens/SettingsScreen';
+import HomeScreen from './Screens/HomeScreen';
+import SettingsScreen from '../Screens/SettingsScreen';
 import Ionicons from "react-native-vector-icons/Ionicons";
-import MyCards from './screens/MyCards';
-import Statistics from './screens/Statistics';
-import { ThemeProvider } from '../Context/ThemeContext';
+import MyCards from '../Screens/MyCards';
+import Statistics from './Screens/Statistics';
+import { ThemeProvider } from './Context/ThemeContext';
 
 export default function App() {
 
